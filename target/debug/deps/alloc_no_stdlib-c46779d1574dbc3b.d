@@ -1,0 +1,10 @@
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/debug/deps/alloc_no_stdlib-c46779d1574dbc3b.rmeta: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/mod.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/index_macro.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/stack_allocator.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_stack_memory.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/init.rs
+
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/debug/deps/alloc_no_stdlib-c46779d1574dbc3b.d: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/mod.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/index_macro.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/stack_allocator.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_stack_memory.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/init.rs
+
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/lib.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/mod.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/index_macro.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/stack_allocator.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_stack_memory.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/init.rs:

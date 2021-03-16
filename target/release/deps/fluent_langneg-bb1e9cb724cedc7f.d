@@ -1,0 +1,10 @@
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/release/deps/fluent_langneg-bb1e9cb724cedc7f.rmeta: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/accepted_languages.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/negotiate/mod.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/negotiate/likely_subtags.rs
+
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/release/deps/libfluent_langneg-bb1e9cb724cedc7f.rlib: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/accepted_languages.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/negotiate/mod.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/negotiate/likely_subtags.rs
+
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/release/deps/fluent_langneg-bb1e9cb724cedc7f.d: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/accepted_languages.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/negotiate/mod.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/negotiate/likely_subtags.rs
+
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/lib.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/accepted_languages.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/negotiate/mod.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-langneg-0.13.0/src/negotiate/likely_subtags.rs:

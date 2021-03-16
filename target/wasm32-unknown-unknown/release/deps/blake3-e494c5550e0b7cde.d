@@ -1,0 +1,12 @@
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/wasm32-unknown-unknown/release/deps/blake3-e494c5550e0b7cde.rmeta: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/guts.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/platform.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/portable.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/traits.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/join.rs
+
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/wasm32-unknown-unknown/release/deps/libblake3-e494c5550e0b7cde.rlib: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/guts.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/platform.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/portable.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/traits.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/join.rs
+
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/wasm32-unknown-unknown/release/deps/blake3-e494c5550e0b7cde.d: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/guts.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/platform.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/portable.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/traits.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/join.rs
+
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/lib.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/guts.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/platform.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/portable.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/traits.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-0.3.7/src/join.rs:

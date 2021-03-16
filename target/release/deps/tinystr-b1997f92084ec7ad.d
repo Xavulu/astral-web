@@ -1,0 +1,12 @@
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/release/deps/tinystr-b1997f92084ec7ad.rmeta: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/helpers.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr16.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr4.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr8.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystrauto.rs
+
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/release/deps/libtinystr-b1997f92084ec7ad.rlib: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/helpers.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr16.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr4.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr8.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystrauto.rs
+
+/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/release/deps/tinystr-b1997f92084ec7ad.d: /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/lib.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/helpers.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr16.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr4.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr8.rs /Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystrauto.rs
+
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/lib.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/helpers.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr16.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr4.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystr8.rs:
+/Users/lain/.cargo/registry/src/github.com-1ecc6299db9ec823/tinystr-0.3.4/src/tinystrauto.rs:

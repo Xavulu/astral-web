@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/wasm32-unknown-unknown/release/build/typenum-b6263e30bda84064/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/lain/compsci/js-apps/astral-web/astral_wasm/target/wasm32-unknown-unknown/release/build/typenum-b6263e30bda84064/out/op.rs
