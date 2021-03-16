@@ -6,7 +6,7 @@ edition = "2018"
 description = "the same encryption and compression functions from astral-cli... for the web"
 license = "MIT"
 readme = "README.md"
-repository = ""
+repository = "https://github.com/Xavulu/astral-web/tree/main/src"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [package.metadata.wasm-pack.profile.release]
 wasm-opt = ["-Os", "--enable-mutable-globals"]
