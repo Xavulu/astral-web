@@ -1,6 +1,6 @@
 [package]
 name = "astral_wasm"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["lain || Xavier Fernandez <xavier.fernandez92@myhunter.cuny.edu>"]
 edition = "2018"
 description = "the same encryption and compression functions from astral-cli... for the web"
