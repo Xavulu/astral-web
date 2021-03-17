@@ -14,6 +14,9 @@ wasm-opt = ["-Os", "--enable-mutable-globals"]
 [lib]
 crate-type = ["cdylib", "rlib"]
 
+[features]
+default = ["console_error_panic_hook"]
+
 [dependencies]
 wasm-bindgen = "0.2.71"
 js-sys = "0.3.48"
@@ -21,8 +24,9 @@ age = { version = "0.5.0", git = "https://github.com/str4d/rage", rev = "386ccc9
 secrecy = "0.7.0"
 wee_alloc = "0.4.5"
 blake3 = "0.3.7" 
-console_error_panic_hook = "0.1.6"
+console_error_panic_hook = {version = "0.1.6", optional = true}
 brotli = "3.3.0"
+wasm-bindgen-test = "0.3.21" 
 
 [profile.release]
 opt-level = "s"

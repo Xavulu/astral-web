@@ -1,7 +1,10 @@
+mod panic_hook;
+
 use wasm_bindgen::prelude::*;
 use secrecy::{Secret}; 
 use brotli::{enc::BrotliEncoderInitParams, BrotliCompress, BrotliDecompress};
 use std::{io::{Read, Write}, vec};
+
 
 #[global_allocator]
 static ALLOC: wee_alloc::WeeAlloc = wee_alloc::WeeAlloc::INIT; 
