@@ -1,0 +1,23 @@
+{
+  "name": "signal-server",
+  "version": "1.0.0",
+  "engines": {
+    "node": "15.x",
+    "yarn": "1.22.10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "description": "a signal server for astral.place",
+  "main": "index.js",
+  "author": "xavier f.",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "peer": "^0.6.1",
+    "peerjs-server": "^0.2.9"
+  }
+}
