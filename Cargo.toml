@@ -27,6 +27,7 @@ blake3 = "0.3.7"
 console_error_panic_hook = {version = "0.1.6", optional = true}
 brotli = "3.3.0"
 wasm-bindgen-test = "0.3.21" 
+getrandom = { version = "0.1.16", features = ["wasm-bindgen"] }
 
 [profile.release]
 opt-level = "s"
